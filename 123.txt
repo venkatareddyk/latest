@@ -4,4 +4,7 @@ echo "eat samosa : "
 echo "eat pizza : "
 echo "eat burger : "
 echo "eat fries : "
+echo "eat biriyani"
 
+echo "drink water"
+echo "drink soda"
