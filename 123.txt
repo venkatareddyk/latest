@@ -1,2 +1,7 @@
-i want to eat mutton
-i need money urgent.
+#! /bin/bash
+
+echo "eat samosa : "
+echo "eat pizza : "
+echo "eat burger : "
+echo "eat fries : "
+
