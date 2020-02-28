@@ -5,3 +5,5 @@ echo "eat pizza : "
 echo "eat burger : "
 echo "eat fries : "
 
+echo "drink water"
+echo "drink soda"
