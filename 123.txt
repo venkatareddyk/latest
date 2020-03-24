@@ -8,4 +8,3 @@ echo "eat biriyani"
 
 echo "drink water"
 echo "drink soda"
-echo "i want to see movie"
